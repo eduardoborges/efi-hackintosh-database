@@ -1,4 +1,4 @@
-# efi-hackintosh-database
+# EFI Database for Hackintosh Lovers
 
 
 ## How to contribute
