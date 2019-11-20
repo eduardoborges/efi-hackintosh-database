@@ -7,7 +7,7 @@
 1. Clone this project on your pc: 
    
   ``
-    git clone git@github.com:eduardoborges/efi-hackintosh-database.git && cd efi-hackintosh-database
+          git clone git@github.com:eduardoborges/efi-hackintosh-database.git && cd efi-hackintosh-database
   ``
 
 2. Run the automatic dump files and configuration
@@ -17,7 +17,7 @@
    ``
 
 3. Replace the folder name `RENAME-WITH-YOUR-MOTHERBOARD-NAME` with your motherboard model. _Ex: HB-110M_
-4. 
+
 5. Add your motherboard information on Readme inside the folder you already renamed.
 
 6. Commit and push <3 
