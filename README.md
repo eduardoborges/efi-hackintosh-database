@@ -1,5 +1,7 @@
 # EFI Database for Hackintosh Lovers
 
+For a lot of configuration folders, share yours ;)
+
 
 ## How to contribute
 
